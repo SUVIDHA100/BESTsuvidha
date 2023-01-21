@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BESTsuvidha/static/css/main.073c9b0a.css",
+    "main.js": "/BESTsuvidha/static/js/main.5a94851f.js",
+    "static/js/787.ce3d0fac.chunk.js": "/BESTsuvidha/static/js/787.ce3d0fac.chunk.js",
+    "static/media/logo.svg": "/BESTsuvidha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BESTsuvidha/index.html",
+    "main.073c9b0a.css.map": "/BESTsuvidha/static/css/main.073c9b0a.css.map",
+    "main.5a94851f.js.map": "/BESTsuvidha/static/js/main.5a94851f.js.map",
+    "787.ce3d0fac.chunk.js.map": "/BESTsuvidha/static/js/787.ce3d0fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5a94851f.js"
+  ]
+}
